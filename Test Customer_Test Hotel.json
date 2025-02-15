@@ -1,0 +1,1 @@
+{"customer": {"name": "Test Customer", "email": "test@example.com"}, "hotel": {"name": "Test Hotel", "location": "Test Location", "rooms": [101, 102, 103], "reservations": []}, "room_number": 101}
